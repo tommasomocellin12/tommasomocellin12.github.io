@@ -1,0 +1,50 @@
+/* qui va il mio codice css */
+.bg-gainsboro {
+	background-color: gainsboro;
+	border-width: 20px;
+	border-style: solid;
+	border-color: #FFF5EE;
+}
+}
+header img {
+	width: 100%;
+}
+.bg-font {
+	font-style: Arial;
+	font-size: 32;
+
+}
+p {
+	text-align: center;
+}
+p {
+	text-align: left;
+}
+.text-align {
+	text-align: left;
+} 
+.text-align1 {
+	text-align: right;
+	margin-top: 60px;
+}
+.text-align2 {
+	text-align: right;
+	margin-top: 80px;
+}
+.text-align3 {
+	text-align: right;
+	margin-top: 10px;
+}
+.text-align4 {
+	text-align: right;
+	margin-top: 85px;
+}
+.text-align5 {
+	text-align: right;
+	margin-top: 35px;
+}
+.text-align-6 {
+	text-align: center;
+}
+
+
